@@ -1,2 +1,2 @@
 # kamilahs-portfolio
-website portfolio showcasing my projects
+My projects
